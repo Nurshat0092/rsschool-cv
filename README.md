@@ -21,6 +21,7 @@ My attitude to _knowledge:
 
 #### **Experience**
 **BTSDigital** 2019 Summer
+
 Intern in AI annotation team
 
 
