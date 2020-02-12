@@ -28,3 +28,7 @@ Intern in AI annotation team
 * **Alem** - _2019 January - Present || Nur-Sultan_
 
 * **Suleyman Demirel University** || _2016 September - 2020 May || Almaty_
+
+#### **English**
+
+C1 level. **IELTS 7.0**
