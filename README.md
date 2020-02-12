@@ -1,1 +1,1 @@
-[link](https://Nurshat0092.github.io/rsschool-cv/cv)
+[link](https://nurshat0092.github.io/rsschool-cv/cv)
