@@ -8,4 +8,9 @@
 * Telegram: @bazilovNurshat
 
 #### **Summary**
-My attitude to _knowledge_: Hungry as a **wolf**
+My attitude to _knowledge: 
+> Hungry as a **wolf**
+
+#### Skills
+* Proficient in: Golang, Python
+* Experience in: numpy, pandas, html, css
