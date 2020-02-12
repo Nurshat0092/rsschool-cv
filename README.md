@@ -18,3 +18,9 @@ My attitude to _knowledge:
 #### **Code examples**
 * [**Ascii-art-web**](https://github.com/Nurshat0092)
 * [**Grouppie-tracker**](https://github.com/Nurshat0092)
+
+#### **Experience**
+**BTSDigital** 2019 Summer
+Intern in AI annotation team
+
+
