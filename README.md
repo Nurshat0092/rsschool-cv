@@ -11,6 +11,10 @@
 My attitude to _knowledge: 
 > Hungry as a **wolf**
 
-#### Skills
-* Proficient in: Golang, Python
-* Experience in: numpy, pandas, html, css
+#### **Skills**
+* **Proficient in**: Golang, Python
+* **Experience in**: numpy, pandas, html, css
+
+#### **Code examples**
+* [**Ascii-art-web**](https://github.com/Nurshat0092)
+* [**Grouppie-tracker**](https://github.com/Nurshat0092)
